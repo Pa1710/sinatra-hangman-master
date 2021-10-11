@@ -1,0 +1,84 @@
+body {
+  background-color: #A55959;
+  color: white;
+  font-family: "Gloria Hallelujah", cursive, Arial;
+  font-size: 35px;
+  text-align: center;
+}
+
+h1 {
+  color: #A9E4D4;
+  margin: 10px;
+}
+
+p {
+  margin: 5px;
+}
+
+#message, #display {
+  color: black;
+}
+
+#display {
+  font-size: 40px;
+}
+
+a:link, a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover, a:active {
+  text-decoration: none;
+  color: white;
+}
+
+form input{
+  border: 1px solid black;
+  font-family: "Gloria Hallelujah", cursive, Arial;
+  font-size: 20px;
+  outline: 0;
+  line-height:39px;
+  width: 150px;
+}
+
+#button {
+  background-color: #A9E4D4;
+  border: 1px solid white;
+  padding: 5px;
+  line-height: 30px;
+  width: 75px;
+}
+
+#button:hover {
+  background-color: #E4F5F0;
+}
+
+#button:active {
+  border: 1px solid black;
+}
+
+footer {
+  bottom: 0px;
+  color: #A9E4D4;
+  font-size: 12px;
+  margin: 10px;
+  position: absolute;
+  width: 100%;
+}
+
+footer p {
+  margin: 0px;
+}
+
+#git:link, #git:visited {
+  color: #A9E4D4;
+}
+
+#git:hover, #git:active {
+  color: white;
+}
+
+span {
+  color: white;
+}
